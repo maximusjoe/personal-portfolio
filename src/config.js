@@ -1,26 +1,14 @@
 module.exports = {
-  email: 'REPLACE_ME.REPLACE_ME@gmail.com',
+  email: 'maximusjoe278@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/REPLACE_ME',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/REPLACE_ME',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/REPLACE_ME',
+      url: 'https://github.com/maximusjoe',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/REPLACE_ME',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/REPLACE_ME',
+      url: 'https://www.linkedin.com/in/maximusjoe/',
     },
   ],
 
@@ -44,9 +32,9 @@ module.exports = {
   ],
 
   colors: {
-    green: '#64ffda',
-    navy: '#0a192f',
-    darkNavy: '#020c1b',
+    green: '#4E9F3D',
+    navy: '#1E5128',
+    darkNavy: '#191A19',
   },
 
   srConfig: (delay = 200, viewFactor = 0.25) => ({

@@ -1,1 +1,1 @@
-Inspired by [REPLACE_MEREPLACE_ME.com](https://REPLACE_MEREPLACE_ME.com).
+Inspired by [https://brittanychiang.com/](https://brittanychiang.com/).
