@@ -2,10 +2,10 @@
   "name": "v4",
   "description": "Personal Website V4",
   "version": "1.0.0",
-  "author": "REPLACE_ME REPLACE_ME <REPLACE_ME.REPLACE_ME@gmail.com>",
+  "author": "Maximus Joe <maximusjoe278@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/REPLACE_ME/v4"
+    "url": "https://github.com/maximusjoe/personal-portfolio"
   },
   "keywords": [
     "gatsby"
