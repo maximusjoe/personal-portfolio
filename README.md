@@ -1,1 +1,1 @@
-Inspired by [https://brittanychiang.com/](https://brittanychiang.com/)
+Inspired by [https://brittanychiang.com](https://brittanychiang.com)
