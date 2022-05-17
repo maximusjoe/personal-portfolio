@@ -1,1 +1,1 @@
-Inspired by [Brittany Chiang](https://brittanychiang.com)
+My personal portfolio website Inspired by [Brittany Chiang](https://brittanychiang.com)
